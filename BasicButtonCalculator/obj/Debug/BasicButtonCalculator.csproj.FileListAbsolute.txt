@@ -1,0 +1,9 @@
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\4Fun\BasicButtonCalculator\BasicButtonCalculator\bin\Debug\BasicButtonCalculator.exe.config
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\4Fun\BasicButtonCalculator\BasicButtonCalculator\bin\Debug\BasicButtonCalculator.exe
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\4Fun\BasicButtonCalculator\BasicButtonCalculator\bin\Debug\BasicButtonCalculator.pdb
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\4Fun\BasicButtonCalculator\BasicButtonCalculator\obj\Debug\BasicButtonCalculator.csprojResolveAssemblyReference.cache
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\4Fun\BasicButtonCalculator\BasicButtonCalculator\obj\Debug\BasicButtonCalculator.FrmMain.resources
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\4Fun\BasicButtonCalculator\BasicButtonCalculator\obj\Debug\BasicButtonCalculator.Properties.Resources.resources
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\4Fun\BasicButtonCalculator\BasicButtonCalculator\obj\Debug\BasicButtonCalculator.csproj.GenerateResource.Cache
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\4Fun\BasicButtonCalculator\BasicButtonCalculator\obj\Debug\BasicButtonCalculator.exe
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\4Fun\BasicButtonCalculator\BasicButtonCalculator\obj\Debug\BasicButtonCalculator.pdb
